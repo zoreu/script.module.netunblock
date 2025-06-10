@@ -14,9 +14,10 @@ Include the script in your addon.xml
 Import doh client and use it
 
 ```python
-# basic import
 from doh_client import requests
 ```
+
+
 
 ## make dns doh server on huggingface
 
