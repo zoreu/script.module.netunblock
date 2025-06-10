@@ -10,13 +10,13 @@ Include the script in your addon.xml
 <requires>
     <import addon="script.module.netunblock"/>
 </requires>
+```
 
 Import doh client and use it
 
 ```python
 from doh_client import requests
 ```
-
 
 
 ## make dns doh server on huggingface
